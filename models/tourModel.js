@@ -11,7 +11,7 @@ maxGroupSize: {
   required: [true, 'A tour must have a group of ']
 },
 difficulty: {
-  type: Number,
+  type: String,
   required: [true, 'A tour must have a group of ']
 },
 ratingAverage: {
